@@ -1,0 +1,43 @@
+.w3l-res-forum .form-control {
+  border-radius: 20px;
+}
+
+.w3l-reservation-forum {
+  margin: 6rem 0;
+}
+.form-control {
+  background: #fff;
+  border: none;
+  padding: 1.5rem;
+  font-size: 15px;
+  outline: none;
+  width: 100%;
+  color: #333;
+  border: none;
+  border-radius: 30px;
+}
+.btn-style {
+  background-color: var(--primary-color);
+  padding: 1rem;
+  border: #333;
+  border-radius: 3rem;
+  font-weight: bolder;
+  color: #fff;
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 1rem;
+}
+.menu-content {
+  background-color: #333;
+  border-radius: 0;
+}
+.menu-item img {
+  border-radius: 0;
+}
+.text-lead {
+  width: 50%;
+  padding: 0 0 0 0.1rem;
+  color: #fff;
+}
+.menu-title-style {
+  color: #fff;
+}
